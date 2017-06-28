@@ -2,6 +2,6 @@
 ![Language](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # Snake
-A simple HTML5 snake game created for fun 🐍
+A __simple__ HTML5 snake game created for fun 🐍
 
 
