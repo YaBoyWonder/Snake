@@ -1,2 +1,4 @@
 # Snake
-A simple html5 snake game 
+A simple HTML5 snake game 
+
+
