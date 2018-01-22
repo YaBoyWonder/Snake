@@ -16,7 +16,7 @@ snakeHeadImage.src = "resources/head.png";
 snakeBodyImage = new Image();
 snakeBodyImage.src = "resources/body.png";
 snakeTailImage = new Image();
-snakeTailImage.src = "resources/tail.png";
+//snakeTailImage.src = "resources/tail.png";
 
 
 foodImage = new Image();
@@ -47,6 +47,7 @@ window.requestAnimFrame = (function(callback)
 var the_date = new Date();
 var test1 = the_date.getTime();
 var stamp = the_date.getTime() + 250;
+var killunder = the_date.getTime() + drive; //config.key.drive
 
 function animate() 
 {
